@@ -31,5 +31,5 @@ https://random-quote-generator-mu.vercel.app/
 Feel free to fork the repo, submit issues, or contribute improvements!  
 
 ---
-📌 **Author:** Your Name  
+📌 **Author:** Emmanuel Kipkirui  
 📌 **License:** MIT  
